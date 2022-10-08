@@ -1,5 +1,5 @@
 ---
-title: Celo Develoepr Onboarding
+title: Celo Developer Onboarding
 description: Start your journey toward developing decentralized applications on the Celo platform. 
 ---
 
